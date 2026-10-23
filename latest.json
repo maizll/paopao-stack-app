@@ -2,6 +2,6 @@
   "latestVersion": "1.0.8",
   "versionCode": 108,
   "forceUpdate": false,
-  "downloadUrl": "http://107.173.255.133:18080/paopao-stack-1.0.7.apk",
-  "changelog": "1.0.8：支持应用内检查更新并下载安装。当前直链暂用已发布的 1.0.7 包做验证。"
+  "downloadUrl": "https://litter.catbox.moe/im7udz.apk",
+  "changelog": "1.0.8：支持应用内检查更新并下载安装。安装包走更新仓 Release 或 Litterbox，不放宝塔。"
 }
