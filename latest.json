@@ -1,14 +1,14 @@
 {
-  "version": "1.1.7",
-  "version_name": "1.1.7",
-  "versionName": "1.1.7",
-  "version_code": 119,
-  "versionCode": 119,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.7/paopao-1.1.7.apk",
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.7/paopao-1.1.7.apk",
-  "sha256": "11c0cfb1e108db3c62d22d1fda5684d6b4a3610fcdf25efa6ef45e7a341267e8",
+  "version": "1.1.8",
+  "version_name": "1.1.8",
+  "versionName": "1.1.8",
+  "version_code": 120,
+  "versionCode": 120,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.8/paopao-1.1.8.apk",
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.8/paopao-1.1.8.apk",
+  "sha256": "860e580e234b9b66e0a8a0eb4a5905da585fa5f04a8a9348db189764daa4d73a",
   "force_update": false,
   "forceUpdate": false,
-  "changelog": "1.1.7：检查更新优先读公开仓 latest.json；后台下载可续传并校验 sha256。下一版 1.1.8 将修正包名为 local.paopao.stack。",
-  "published_at": "2026-10-24T00:40:00+08:00"
+  "changelog": "1.1.8：正式包名改为 com.maizll.paopao；release 签名。旧包名安装需卸载或并行安装，不能覆盖。",
+  "published_at": "2026-10-24T00:55:00+08:00"
 }
