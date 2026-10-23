@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "version_name": "1.1.4",
-  "versionName": "1.1.4",
-  "version_code": 115,
-  "versionCode": 115,
-  "download_url": "https://litter.catbox.moe/qc4l4c.apk",
-  "downloadUrl": "https://litter.catbox.moe/qc4l4c.apk",
-  "sha256": "715800c0b524f1c3ef74fc23172e2cbf551187ca2d63bfe5cddc68bff176f1d4",
-  "changelog": "详情多图改为整张横滑+红点，可全屏继续滑；视频封面与播放标；我的页头像数据+双列笔记；编辑资料卡片行。"
+  "version": "1.1.5",
+  "version_name": "1.1.5",
+  "versionName": "1.1.5",
+  "version_code": 117,
+  "versionCode": 117,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.5/paopao-1.1.5.apk",
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.5/paopao-1.1.5.apk",
+  "sha256": "50e51f0e891352c78ae4350eb2cfee699d6d045d1b0f36d8b65411edf550a23c",
+  "changelog": "视频全屏上下滑切条；横屏/竖屏按片子方向播放，原始比例不拉伸；离开视频回竖屏。"
 }
