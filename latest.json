@@ -2,6 +2,6 @@
   "latestVersion": "1.0.8",
   "versionCode": 108,
   "forceUpdate": false,
-  "downloadUrl": "https://litter.catbox.moe/im7udz.apk",
-  "changelog": "1.0.8：支持应用内检查更新并下载安装。安装包走更新仓 Release 或 Litterbox，不放宝塔。"
+  "downloadUrl": "https://litter.catbox.moe/v0fzti.apk",
+  "changelog": "1.0.8：可以在应用内下载并安装。当前文件是带更新功能的 1.0.7 安装包，用来验证下载和安装。"
 }
