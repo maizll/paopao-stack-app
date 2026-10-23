@@ -1,13 +1,13 @@
 {
-  "version": "0.1.27",
-  "version_name": "0.1.27",
-  "versionName": "0.1.27",
-  "version_code": 127,
-  "versionCode": 127,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.27/paopao-api-0.1.27.zip",
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.27/paopao-api-0.1.27.zip",
-  "sha256": "1330f562d809c8895c910d016217500fb8cab25e95bf2712a93d2d0db73a75cc",
+  "version": "0.1.28",
+  "version_name": "0.1.28",
+  "versionName": "0.1.28",
+  "version_code": 128,
+  "versionCode": 128,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.28/paopao-api-0.1.28.zip",
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.28/paopao-api-0.1.28.zip",
+  "sha256": "47a0afcf45e5f449af9901586a677c6bab20c819d68bc153fac8d7cc6e482fa8",
   "migrate": true,
-  "changelog": "泡泡栈服务端 0.1.27（version_code 127）\n\n相对 0.1.26：max_entries 默认 2000；proc_open 不可用时同进程 Artisan 兜底迁移/清缓存；版本号非法时提示「不合法」而不再误报「缺少版本号」。\n\n不要再装 0.1.26 / 0.1.26.1（会把更新器盖回去）。\n\n完整包 sha256：1330f562d809c8895c910d016217500fb8cab25e95bf2712a93d2d0db73a75cc",
-  "published_at": "2026-10-24T00:21:00+08:00"
+  "changelog": "泡泡栈服务端 0.1.28（version_code 128）\n\n修复：PHP-FPM 下 PHP_BINARY 是 php-fpm，在线迁移会失败回滚；现改选真正 PHP CLI，找不到或仍是 fpm/cgi 时改用同进程 Artisan。\n\n另含：max_entries 默认 2000；清单版本号非法时明确提示。\n\n不要再装 0.1.26 / 0.1.26.1 / 0.1.27。\n\nsha256：47a0afcf45e5f449af9901586a677c6bab20c819d68bc153fac8d7cc6e482fa8",
+  "published_at": "2026-10-24T00:26:00+08:00"
 }
