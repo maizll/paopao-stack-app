@@ -6,7 +6,7 @@
   "version_code": 122,
   "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.0/paopao-1.2.0.apk",
   "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.0/paopao-1.2.0.apk",
-  "sha256": "3d1707b5ca12ca07209ea12d9a4ce970fead04fc3a9c4b23c6c7384c110ea0fa",
+  "sha256": "e6990741ae5b45729f905b130e8577521921ba4452ed0bd361629a672e7a876c",
   "forceUpdate": false,
   "force_update": false,
   "changelog": "1.2.0：全屏视频的赞、收藏、评论和头像可以点了，头像裁成圆形并进入作者主页。更新下载改为底部小条，收起后继续刷视频，下完会校验并拉起安装。包名仍是 com.maizll.paopao。",
