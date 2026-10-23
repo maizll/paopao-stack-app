@@ -1,13 +1,13 @@
 {
-  "version": "1.1.6",
-  "version_name": "1.1.6",
-  "versionName": "1.1.6",
-  "version_code": 118,
-  "versionCode": 118,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.6/paopao-1.1.6.apk",
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.6/paopao-1.1.6.apk",
-  "sha256": "27e8d3efb0ff537e22ef763ed6808fb26eddab370fe8e7d4e38b6b522d3dac34",
+  "version": "1.1.7",
+  "version_name": "1.1.7",
+  "versionName": "1.1.7",
+  "version_code": 119,
+  "versionCode": 119,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.7/paopao-1.1.7.apk",
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.7/paopao-1.1.7.apk",
+  "sha256": "11c0cfb1e108db3c62d22d1fda5684d6b4a3610fcdf25efa6ef45e7a341267e8",
   "force_update": false,
   "forceUpdate": false,
-  "changelog": "- 修复更新下载进度弹层闪烁。下载时固定一张卡片，标题保持「正在下载」，下面是进度条和单独的百分比；百分比不变不重画。下完先切到「正在安装」，再拉起系统安装。\n- 全屏视频补上右侧互动栏（点赞、评论、收藏、分享）和底部作者、关注、可展开文案。保留关闭、上下滑、横竖屏自适应和底边进度条。\n- 视频封面：发帖会截取首帧或改选封面并上传；列表、瀑布流和「我的」优先用这张图，没有则在客户端抽一帧。角标「视频」和播放图标保留。全屏开播前先显示封面。\n- 首页推荐、最新和社区只展示已发布笔记。待审留在作者的「我的」和管理审核队列，不再出现在普通信息流。\n- 社区顶栏去掉并排的「创建版块」「发布」。发布统一用底部导航中间的红色加号。「我的」顶栏只留设置。有权限时，版块胶囊条右侧有一个小号加号，管理台里也有「版块」。\n- 角色展示改为超级管理员、管理员、审核员、普通用户，并在「我的 → 管理」写出职责。审核员默认可审帖、处理举报、管理版块。"
+  "changelog": "- 检查更新先读公开仓 https://raw.githubusercontent.com/maizll/paopao-stack-app/main/latest.json，失败再回退 /api/v1/app/version。不必等后台手填地址。\n- 安装包下载改为 plus.downloader。切到后台、锁屏或离开页面不会取消任务。前台卡片可收起，通知栏继续显示进度。同一 versionCode 未下完可以「继续下载」，不会从头再来。下完核对大小，清单里有 sha256 时再核对校验值，然后进入「正在安装」。\n- 强制更新不能点稍后。普通更新可以稍后。检查失败可以重试。流量网络会提醒一次。\n- 首页增加「关注 | 推荐 | 最新」。关注流为空时可以一键关注推荐创作者。\n- 视频、笔记和他人主页可以关注、回关、取消关注。主页可以发私信。关注和粉丝数字打开列表。\n- 消息页：赞和收藏、新增关注、评论和@、系统通知，下面是私信列表。\n- 搜索独立页：综合、笔记、软件、用户、版块，带本地历史和热词。\n- 发现页可切换「软件库 | 虚拟商城」。可浏览、沙盒支付并复制卡密。我的里有「我的订单」。\n- 管理台增加商城和系统通知入口。"
 }
