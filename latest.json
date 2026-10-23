@@ -1,14 +1,14 @@
 {
-  "version": "1.1.9",
-  "version_name": "1.1.9",
-  "versionName": "1.1.9",
-  "version_code": 121,
-  "versionCode": 121,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.9/paopao-1.1.9.apk",
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.9/paopao-1.1.9.apk",
-  "sha256": "436e0a2f4002b6c60fb0a68cace218b36b1fad600be4d95593f65cc6882e86b7",
-  "force_update": false,
+  "latestVersion": "1.2.0",
+  "version": "1.2.0",
+  "versionName": "1.2.0",
+  "versionCode": 122,
+  "version_code": 122,
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.0/paopao-1.2.0.apk",
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.0/paopao-1.2.0.apk",
+  "sha256": "3d1707b5ca12ca07209ea12d9a4ce970fead04fc3a9c4b23c6c7384c110ea0fa",
   "forceUpdate": false,
-  "changelog": "1.1.9：全屏视频补齐赞、关注、评论、收藏和分享，并打磨右侧栏、正文和进度条。包名仍是 com.maizll.paopao。",
-  "published_at": "2026-10-24T01:44:00+08:00"
+  "force_update": false,
+  "changelog": "1.2.0：全屏视频的赞、收藏、评论和头像可以点了，头像裁成圆形并进入作者主页。更新下载改为底部小条，收起后继续刷视频，下完会校验并拉起安装。包名仍是 com.maizll.paopao。",
+  "published_at": "2026-10-24T03:00:00+08:00"
 }
