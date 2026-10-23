@@ -1,0 +1,10 @@
+{
+  "version": "0.1.22",
+  "version_name": "0.1.22",
+  "version_code": 122,
+  "versionCode": 122,
+  "download_url": "https://litter.catbox.moe/0k2mo5.zip",
+  "downloadUrl": "https://litter.catbox.moe/0k2mo5.zip",
+  "sha256": "89d6e223ad8ee92e969486be65cc0524c0e47440da35c9168bcd61c268692b19",
+  "changelog": "0.1.22：支持后端在线检测与一键应用补丁（/api/v1/admin/server-release）、App 管理宫格与个人图库。"
+}
