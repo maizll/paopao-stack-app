@@ -1,7 +1,13 @@
 {
-  "latestVersion": "1.0.8",
-  "versionCode": 108,
+  "version": "1.0.12",
+  "version_name": "1.0.12",
+  "latestVersion": "1.0.12",
+  "versionCode": 112,
+  "version_code": 112,
   "forceUpdate": false,
-  "downloadUrl": "https://litter.catbox.moe/wi129a.apk",
-  "changelog": "1.0.8：我的页补全资料、设置和客态主页；检查更新收进关于；可应用内下载安装。"
+  "force_update": false,
+  "downloadUrl": "https://litter.catbox.moe/a4f2i6.apk",
+  "download_url": "https://litter.catbox.moe/a4f2i6.apk",
+  "sha256": "952d8f33691baa7d967c05cae2c72e3aa6cf28985d9d679c7e96aefa007a808f",
+  "changelog": "图片上传与个人图库、九宫格预览、帖子详情图与首页首图封面、个人资料改头像、App 管理台（按权限显示审帖/举报/商店/客户端更新/后端更新）"
 }
