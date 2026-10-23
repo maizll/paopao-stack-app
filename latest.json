@@ -1,13 +1,12 @@
 {
-  "version": "1.0.12",
-  "version_name": "1.0.12",
-  "latestVersion": "1.0.12",
-  "versionCode": 112,
-  "version_code": 112,
+  "version": "1.1.3",
+  "versionName": "1.1.3",
+  "version_name": "1.1.3",
+  "versionCode": 114,
+  "version_code": 114,
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.3/paopao-1.1.3.apk",
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.3/paopao-1.1.3.apk",
+  "sha256": "78dc641aca554c0c5f5760b7bb426ab40170f84e97b50d1067ca5466432e8242",
   "forceUpdate": false,
-  "force_update": false,
-  "downloadUrl": "https://litter.catbox.moe/a4f2i6.apk",
-  "download_url": "https://litter.catbox.moe/a4f2i6.apk",
-  "sha256": "952d8f33691baa7d967c05cae2c72e3aa6cf28985d9d679c7e96aefa007a808f",
-  "changelog": "图片上传与个人图库、九宫格预览、帖子详情图与首页首图封面、个人资料改头像、App 管理台（按权限显示审帖/举报/商店/客户端更新/后端更新）"
+  "changelog": "1.1.3：输入框字色可读；帖子九宫格图集+全屏滑动；发帖/详情视频；管理台后端更新入口。"
 }
