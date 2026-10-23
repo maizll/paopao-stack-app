@@ -1,14 +1,14 @@
 {
-  "version": "1.1.8",
-  "version_name": "1.1.8",
-  "versionName": "1.1.8",
-  "version_code": 120,
-  "versionCode": 120,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.8/paopao-1.1.8.apk",
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.8/paopao-1.1.8.apk",
-  "sha256": "860e580e234b9b66e0a8a0eb4a5905da585fa5f04a8a9348db189764daa4d73a",
+  "version": "1.1.9",
+  "version_name": "1.1.9",
+  "versionName": "1.1.9",
+  "version_code": 121,
+  "versionCode": 121,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.9/paopao-1.1.9.apk",
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.1.9/paopao-1.1.9.apk",
+  "sha256": "436e0a2f4002b6c60fb0a68cace218b36b1fad600be4d95593f65cc6882e86b7",
   "force_update": false,
   "forceUpdate": false,
-  "changelog": "1.1.8：正式包名改为 com.maizll.paopao；release 签名。旧包名安装需卸载或并行安装，不能覆盖。",
-  "published_at": "2026-10-24T00:55:00+08:00"
+  "changelog": "1.1.9：全屏视频补齐赞、关注、评论、收藏和分享，并打磨右侧栏、正文和进度条。包名仍是 com.maizll.paopao。",
+  "published_at": "2026-10-24T01:44:00+08:00"
 }
