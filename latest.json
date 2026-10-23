@@ -9,6 +9,6 @@
   "sha256": "11c0cfb1e108db3c62d22d1fda5684d6b4a3610fcdf25efa6ef45e7a341267e8",
   "force_update": false,
   "forceUpdate": false,
-  "changelog": "1.1.7：检查更新优先读公开仓 latest.json；后台下载可续传并校验 sha256。包名须为 local.paopao.stack（1.1.8 将修正）。",
-  "published_at": "2026-10-23T15:56:00+08:00"
+  "changelog": "1.1.7：检查更新优先读公开仓 latest.json；后台下载可续传并校验 sha256。下一版 1.1.8 将修正包名为 local.paopao.stack。",
+  "published_at": "2026-10-24T00:40:00+08:00"
 }
