@@ -1,13 +1,13 @@
 {
-  "version": "0.1.32",
-  "version_name": "0.1.32",
-  "versionName": "0.1.32",
-  "version_code": 132,
-  "versionCode": 132,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.32/paopao-api-0.1.32.zip",
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.32/paopao-api-0.1.32.zip",
-  "sha256": "2426a2b193bf201e5ab228cdd16756ad20f7f064f637d3494136b7e4b222cd5a",
+  "version": "0.1.33",
+  "version_name": "0.1.33",
+  "versionName": "0.1.33",
+  "version_code": 133,
+  "versionCode": 133,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.33/paopao-api-0.1.33.zip",
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.33/paopao-api-0.1.33.zip",
+  "sha256": "bc2b95a1eb4abd15c03ff3dc830a691980e5816aa4ef1227cda3fde32e6cfb79",
   "migrate": true,
-  "changelog": "泡泡栈服务端 0.1.32（version_code 132）\n\n阶段6：消息分类未读与角标、群发记录 notification_campaigns、搜索与私信补齐。\n\nsha256：2426a2b193bf201e5ab228cdd16756ad20f7f064f637d3494136b7e4b222cd5a",
-  "published_at": "2026-10-24T09:20:00+08:00"
+  "changelog": "泡泡栈服务端 0.1.33（version_code 133）\n\n阶段7：插件钩子框架、tenant_plugins/plugin_storage、示例每日抽奖、后台安装启停配置。\n\nsha256：bc2b95a1eb4abd15c03ff3dc830a691980e5816aa4ef1227cda3fde32e6cfb79",
+  "published_at": "2026-10-24T09:45:00+08:00"
 }
