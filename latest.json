@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.2.7",
-  "version": "1.2.7",
-  "versionName": "1.2.7",
-  "versionCode": 129,
-  "version_code": 129,
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.7/paopao-1.2.7.apk",
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.7/paopao-1.2.7.apk",
-  "sha256": "0342e57dc5ca26fadbc65206d81acb6e685c9d64534b518fe7e1265a2daccf2d",
+  "latestVersion": "1.2.8",
+  "version": "1.2.8",
+  "versionName": "1.2.8",
+  "versionCode": 130,
+  "version_code": 130,
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.8/paopao-1.2.8.apk",
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.8/paopao-1.2.8.apk",
+  "sha256": "4eba3cc4dc0955c52ad16a761fdaac4c42e9fcbc76378249fb26913d11ab12c2",
   "forceUpdate": false,
   "force_update": false,
-  "changelog": "1.2.7：播放器按快手重做。竖屏是沉浸视频，右侧头像关注、赞评藏分享和转盘，底部是昵称、时间板块、相关搜索和评论条，横视频有全屏观看。横屏控件半透明，可自动隐藏，有亮度音量锁屏、细进度条、赞评藏、评论和倍速清晰度。上下滑下一条跟手。赞、关注、收藏、评论走原来的接口。",
-  "published_at": "2026-10-24T12:00:00+08:00"
+  "changelog": "1.2.8：底部「商城」可以打开。每日抽奖是完整页面，能看奖池、剩余次数和自己的记录。安装包校验在后台让出，可跳过，超过约 20 秒会问是否仍要安装。",
+  "published_at": "2026-10-24T13:40:00+08:00"
 }
