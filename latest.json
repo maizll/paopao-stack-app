@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.2.6",
-  "version": "1.2.6",
-  "versionName": "1.2.6",
-  "versionCode": 128,
-  "version_code": 128,
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.6/paopao-1.2.6.apk",
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.6/paopao-1.2.6.apk",
-  "sha256": "32c1d5f1b43a54f71ae2af5643815925ce04613c1cb8e77da906dee21c4d48ad",
+  "latestVersion": "1.2.7",
+  "version": "1.2.7",
+  "versionName": "1.2.7",
+  "versionCode": 129,
+  "version_code": 129,
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.7/paopao-1.2.7.apk",
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.7/paopao-1.2.7.apk",
+  "sha256": "0342e57dc5ca26fadbc65206d81acb6e685c9d64534b518fe7e1265a2daccf2d",
   "forceUpdate": false,
   "force_update": false,
-  "changelog": "1.2.6：可勾选首页、社区、发现、商城、消息和我的，每页能换样式。底栏有图标文字、纯图标和中间凸起发布。未启用的页面不进底栏。后台用手机框先看再保存。",
-  "published_at": "2026-10-24T10:05:00+08:00"
+  "changelog": "1.2.7：播放器按快手重做。竖屏是沉浸视频，右侧头像关注、赞评藏分享和转盘，底部是昵称、时间板块、相关搜索和评论条，横视频有全屏观看。横屏控件半透明，可自动隐藏，有亮度音量锁屏、细进度条、赞评藏、评论和倍速清晰度。上下滑下一条跟手。赞、关注、收藏、评论走原来的接口。",
+  "published_at": "2026-10-24T12:00:00+08:00"
 }
