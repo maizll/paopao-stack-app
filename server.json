@@ -1,8 +1,8 @@
 {
-  "version": "0.1.34",
-  "version_name": "0.1.34",
-  "version_code": 134,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.34/paopao-api-0.1.34.zip",
-  "sha256": "31fc6f2582acb2b5981dc6be6ccefcb37fa169f3464b1aa3b7c9cab5d9c60f16",
-  "changelog": "插件钩子、插槽和示例每日抽奖。在线补丁可以带 plugins/。插件表还没建时执行迁移。"
+  "version": "0.1.35",
+  "version_name": "0.1.35",
+  "version_code": 135,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.35/paopao-api-0.1.35.zip",
+  "sha256": "279f9befa12dfe959b42743372d38024019b98a2b84e4c69021d545e77d1ae46",
+  "changelog": "租户可勾选页面、混搭皮肤和三种底栏。未启用的页面不进底栏。后台手机框可先预览再保存。迁移只给站点配置加 shell 一列。"
 }
