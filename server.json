@@ -1,8 +1,8 @@
 {
-  "version": "0.1.38",
-  "version_name": "0.1.38",
-  "version_code": 1380,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.38/paopao-api-0.1.38.zip",
-  "sha256": "7eb53d808a1659a1bb190294a91bc5ffa093d5a7c685563fe3409914c18be7ec",
-  "changelog": "邮箱注册要验证码，登录后可改密码，忘记密码用邮箱验证码重置。本地未配发信时接口带回验证码。version_code 1380。新增 email_auth_codes。"
+  "version": "0.1.39",
+  "version_name": "0.1.39",
+  "version_code": 1390,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.39/paopao-api-0.1.39.zip",
+  "sha256": "9df94a7b4c0a61cc5c754cfeb7180461a9291d274df6ff9d9113f2ff5cd7ceda",
+  "changelog": "协议/隐私可配、软件评价与相关推荐、SMTP、索引与性能。部署后 php artisan migrate --force && php artisan config:clear。version_code 1390。"
 }
