@@ -1,13 +1,13 @@
 {
-  "version": "0.1.30",
-  "version_name": "0.1.30",
-  "versionName": "0.1.30",
-  "version_code": 130,
-  "versionCode": 130,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.30/paopao-api-0.1.30.zip",
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.30/paopao-api-0.1.30.zip",
-  "sha256": "e741547666a5ecf465749988176953fda62ef31824c85dbc8b48af519f823ae1",
+  "version": "0.1.31",
+  "version_name": "0.1.31",
+  "versionName": "0.1.31",
+  "version_code": 131,
+  "versionCode": 131,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.31/paopao-api-0.1.31.zip",
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.31/paopao-api-0.1.31.zip",
+  "sha256": "20667965265ffb113cfbd14efaee0b43e6d4934fddd80d3af4dd32f38757462f",
   "migrate": true,
-  "changelog": "泡泡栈服务端 0.1.30（version_code 130）\n\n阶段4：推荐位、敏感词、基础配置、操作日志、签到、工作台四指标。\n\nmigrate 新增：ops_recommendations、sensitive_words、site_settings、user_checkins。\n\nsha256：e741547666a5ecf465749988176953fda62ef31824c85dbc8b48af519f823ae1",
-  "published_at": "2026-10-24T08:45:00+08:00"
+  "changelog": "泡泡栈服务端 0.1.31（version_code 131）\n\n阶段5：商城支付（沙箱/支付宝/微信回调）、自动发码、补发、退款作废卡密、售后申请。\n\nsha256：20667965265ffb113cfbd14efaee0b43e6d4934fddd80d3af4dd32f38757462f",
+  "published_at": "2026-10-24T09:05:00+08:00"
 }

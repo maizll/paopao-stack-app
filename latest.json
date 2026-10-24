@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.2.2",
-  "version": "1.2.2",
-  "versionName": "1.2.2",
-  "versionCode": 124,
-  "version_code": 124,
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.2/paopao-1.2.2.apk",
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.2/paopao-1.2.2.apk",
-  "sha256": "3d686e39594f18e12d1879b63a7a5d8304d079784d8b0496d43fa988704cc753",
+  "latestVersion": "1.2.3",
+  "version": "1.2.3",
+  "versionName": "1.2.3",
+  "versionCode": 125,
+  "version_code": 125,
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.3/paopao-1.2.3.apk",
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.3/paopao-1.2.3.apk",
+  "sha256": "280caffafa6c1dde8980b42eb9833bcde69c80c7f2a57a775c5ecca23fe1a134",
   "forceUpdate": false,
   "force_update": false,
-  "changelog": "1.2.2：首页增加搜索、双列推荐、下拉刷新和上拉分页。Banner 改为轮播。九宫格可进软件分类、圈子、签到和商城。编辑推荐按排序展示帖子和软件。发现页补齐加载、空态和失败。签到可累计连续天数。",
-  "published_at": "2026-10-24T08:40:00+08:00"
+  "changelog": "1.2.3：虚拟商城可看列表和详情。确认订单后选支付宝或微信。没有商户密钥时走模拟支付，确认后自动发码。我的订单可看发货状态、复制卡密、继续支付和提交退款申请。多规格、实体物流和售后退货处理留到二期。",
+  "published_at": "2026-10-24T09:10:00+08:00"
 }
