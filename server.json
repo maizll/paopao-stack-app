@@ -1,8 +1,8 @@
 {
-  "version": "0.1.37",
-  "version_name": "0.1.37",
-  "version_code": 1370,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.37/paopao-api-0.1.37.zip",
-  "sha256": "a1868a1bb5c8454fca53a0e07fb57c3dd55ab36101289abcb216c9726432bce7",
-  "changelog": "后台 App 形态竖屏真预览、每日抽奖完整管理页、登录超时提示。version_code 1370（高于 0.1.36.3 的 1363）。"
+  "version": "0.1.38",
+  "version_name": "0.1.38",
+  "version_code": 1380,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.38/paopao-api-0.1.38.zip",
+  "sha256": "7eb53d808a1659a1bb190294a91bc5ffa093d5a7c685563fe3409914c18be7ec",
+  "changelog": "邮箱注册要验证码，登录后可改密码，忘记密码用邮箱验证码重置。本地未配发信时接口带回验证码。version_code 1380。新增 email_auth_codes。"
 }
