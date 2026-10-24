@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.3.2",
-  "version": "1.3.2",
-  "versionName": "1.3.2",
-  "versionCode": 134,
-  "version_code": 134,
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.3.2/paopao-1.3.2.apk",
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.3.2/paopao-1.3.2.apk",
-  "sha256": "1a3520f167b1a663e228143abcac4be477813f6022650a3b530c6751007ea1da",
+  "latestVersion": "1.3.3",
+  "version": "1.3.3",
+  "versionName": "1.3.3",
+  "versionCode": 135,
+  "version_code": 135,
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.3.3/paopao-1.3.3.apk",
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.3.3/paopao-1.3.3.apk",
+  "sha256": "be88977b688e570ae84f218c4e228b7aafd836499c6725cccc201306dfb31ea4",
   "forceUpdate": false,
   "force_update": false,
-  "changelog": "1.3.2：我的页快捷入口短文案+左右滑动；配置时标题最多4字，超长无法保存。",
-  "published_at": "2026-10-24T18:50:02+08:00"
+  "changelog": "1.3.3：我的快捷入口小卡片左右滑；安装包本地完整校验，算不出仍可装。后台个人中心可改邮箱密码，社区用户管理补齐。",
+  "published_at": "2026-10-24T19:33:32+08:00"
 }
