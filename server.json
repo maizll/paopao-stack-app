@@ -1,8 +1,8 @@
 {
-  "version": "0.1.35",
-  "version_name": "0.1.35",
-  "version_code": 135,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.35/paopao-api-0.1.35.zip",
-  "sha256": "279f9befa12dfe959b42743372d38024019b98a2b84e4c69021d545e77d1ae46",
-  "changelog": "租户可勾选页面、混搭皮肤和三种底栏。未启用的页面不进底栏。后台手机框可先预览再保存。迁移只给站点配置加 shell 一列。"
+  "version": "0.1.36",
+  "version_name": "0.1.36",
+  "version_code": 136,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.36/paopao-api-0.1.36.zip",
+  "sha256": "74cd0bfe6914c7f80fde5fe1187597620696d9fc7514f6c20858256b5dcd9fdd",
+  "changelog": "线上仍是 0.1.35，本包替换先前未部署的 0.1.36。抽奖增加 GET /api/v1/lottery，未登录不再 404。公开版本在库内 sha256 为空时按版本或下载地址回填，读清单失败不再缓存 5 分钟，同步不会把旧校验值套到新安装包上。后台 App 形态用竖屏手机预览租户内容。迁移只给 client_releases 加可空 sha256。"
 }
