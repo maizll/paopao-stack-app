@@ -1,14 +1,8 @@
 {
-  "latestVersion": "1.3.3",
-  "version": "1.3.3",
-  "versionName": "1.3.3",
-  "versionCode": 135,
-  "version_code": 135,
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.3.3/paopao-1.3.3.apk",
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.3.3/paopao-1.3.3.apk",
-  "sha256": "be88977b688e570ae84f218c4e228b7aafd836499c6725cccc201306dfb31ea4",
+  "version": "1.3.4",
+  "versionCode": 136,
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.3.4/paopao-1.3.4.apk",
+  "sha256": "3cc6bb5096fa4d3fcf53c24fd8c23547e05c644accd183f981e16c59c5c8ce29",
   "forceUpdate": false,
-  "force_update": false,
-  "changelog": "1.3.3：我的快捷入口小卡片左右滑；安装包本地完整校验，算不出仍可装。后台个人中心可改邮箱密码，社区用户管理补齐。",
-  "published_at": "2026-10-24T19:33:32+08:00"
+  "changelog": "社区改为图鸟圈子的单列帖子卡：头像、正文、小图组和赞评浏览，并接现有帖子接口。首页保持视频号流。未登录的我的是访客主页，登录页按钮不再拉成整条。"
 }
