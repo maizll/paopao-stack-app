@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.2.8",
-  "version": "1.2.8",
-  "versionName": "1.2.8",
-  "versionCode": 130,
-  "version_code": 130,
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.8/paopao-1.2.8.apk",
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.8/paopao-1.2.8.apk",
-  "sha256": "4eba3cc4dc0955c52ad16a761fdaac4c42e9fcbc76378249fb26913d11ab12c2",
+  "latestVersion": "1.2.9",
+  "version": "1.2.9",
+  "versionName": "1.2.9",
+  "versionCode": 131,
+  "version_code": 131,
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.9/paopao-1.2.9.apk",
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.9/paopao-1.2.9.apk",
+  "sha256": "03d2840748bea2a1a7c6734517df5aba87036883d63494bd53a5834f4bbc6759",
   "forceUpdate": false,
   "force_update": false,
-  "changelog": "1.2.8：底部「商城」可以打开。每日抽奖是完整页面，能看奖池、剩余次数和自己的记录。安装包校验在后台让出，可跳过，超过约 20 秒会问是否仍要安装。",
-  "published_at": "2026-10-24T13:40:00+08:00"
+  "changelog": "1.2.9：每日抽奖仍是完整页面。底部商城保持可打开。安装包校验继续在后台让出，可跳过。",
+  "published_at": "2026-10-24T14:10:00+08:00"
 }
