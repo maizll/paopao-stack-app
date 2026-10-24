@@ -1,8 +1,8 @@
 {
-  "version": "0.1.36.2",
-  "version_name": "0.1.36.2",
-  "version_code": 1362,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.36.2/paopao-api-0.1.36.2.zip",
-  "sha256": "2ec97e7bb87ac4aa856f066ab14776921ceafde942bc1b5eedb31cb89633aada",
-  "changelog": "0.1.36 清洁包：公开抽奖接口、sha256 回填、App 形态真预览、每日抽奖管理页；去掉补丁白名单拒绝的文件。"
+  "version": "0.1.36.3",
+  "version_name": "0.1.36.3",
+  "version_code": 1363,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.36.3/paopao-api-0.1.36.3.zip",
+  "sha256": "45f5fcb488e94fd19ac68f18930ac870dd609708ba24c14e63085726cf223ca0",
+  "changelog": "0.1.36：公开抽奖、sha256 回填、App 形态预览、每日抽奖管理；补丁仅含允许路径。"
 }
