@@ -1,8 +1,8 @@
 {
   "version": "0.1.37",
   "version_name": "0.1.37",
-  "version_code": 137,
+  "version_code": 1370,
   "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.37/paopao-api-0.1.37.zip",
   "sha256": "a1868a1bb5c8454fca53a0e07fb57c3dd55ab36101289abcb216c9726432bce7",
-  "changelog": "后台 App 形态改成竖屏手机，样式和底栏是横排卡片，点底栏切换页面，预览用当前租户内容。每日抽奖改成完整管理页。登录请求 8 秒超时；登录成功但工作台慢时有提示。没有新表。"
+  "changelog": "后台 App 形态竖屏真预览、每日抽奖完整管理页、登录超时提示。version_code 1370（高于 0.1.36.3 的 1363）。"
 }
