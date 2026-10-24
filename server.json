@@ -1,8 +1,8 @@
 {
-  "version": "0.1.33.1",
-  "version_name": "0.1.33.1",
-  "version_code": 133,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.33.1/paopao-api-0.1.33.1.zip",
-  "sha256": "fb3b49c58aa4404625060675a92ceac6073dfaae402552223d7fc0139d3f144a",
-  "changelog": "允许插件目录进补丁。装完后重载 PHP-FPM，再把清单改成 0.1.34。这次没有数据库迁移。"
+  "version": "0.1.34",
+  "version_name": "0.1.34",
+  "version_code": 134,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.34/paopao-api-0.1.34.zip",
+  "sha256": "31fc6f2582acb2b5981dc6be6ccefcb37fa169f3464b1aa3b7c9cab5d9c60f16",
+  "changelog": "插件钩子、插槽和示例每日抽奖。在线补丁可以带 plugins/。插件表还没建时执行迁移。"
 }
