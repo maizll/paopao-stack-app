@@ -1,13 +1,13 @@
 {
-  "version": "0.1.29",
-  "version_name": "0.1.29",
-  "versionName": "0.1.29",
-  "version_code": 129,
-  "versionCode": 129,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.29/paopao-api-0.1.29.zip",
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.29/paopao-api-0.1.29.zip",
-  "sha256": "c57adcfcd0192d909d51493d7c27b6f522fef8a646aa15cb05ea9f82b9d1c315",
+  "version": "0.1.30",
+  "version_name": "0.1.30",
+  "versionName": "0.1.30",
+  "version_code": 130,
+  "versionCode": 130,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.30/paopao-api-0.1.30.zip",
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.30/paopao-api-0.1.30.zip",
+  "sha256": "e741547666a5ecf465749988176953fda62ef31824c85dbc8b48af519f823ae1",
   "migrate": true,
-  "changelog": "泡泡栈服务端 0.1.29（version_code 129）\n\n修复：open_basedir 下探测宝塔 PHP 路径会 is_file 抛错导致迁移回滚；现按 basedir 前缀跳过站外路径，无可用 CLI 时直接同进程 Artisan。\n\n不要再装 0.1.28 及更早包。\n\nsha256：c57adcfcd0192d909d51493d7c27b6f522fef8a646aa15cb05ea9f82b9d1c315",
-  "published_at": "2026-10-24T00:35:00+08:00"
+  "changelog": "泡泡栈服务端 0.1.30（version_code 130）\n\n阶段4：推荐位、敏感词、基础配置、操作日志、签到、工作台四指标。\n\nmigrate 新增：ops_recommendations、sensitive_words、site_settings、user_checkins。\n\nsha256：e741547666a5ecf465749988176953fda62ef31824c85dbc8b48af519f823ae1",
+  "published_at": "2026-10-24T08:45:00+08:00"
 }
