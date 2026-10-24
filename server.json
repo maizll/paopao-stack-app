@@ -1,13 +1,8 @@
 {
-  "version": "0.1.33",
-  "version_name": "0.1.33",
-  "versionName": "0.1.33",
+  "version": "0.1.33.1",
+  "version_name": "0.1.33.1",
   "version_code": 133,
-  "versionCode": 133,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.33/paopao-api-0.1.33.zip",
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.33/paopao-api-0.1.33.zip",
-  "sha256": "bc2b95a1eb4abd15c03ff3dc830a691980e5816aa4ef1227cda3fde32e6cfb79",
-  "migrate": true,
-  "changelog": "泡泡栈服务端 0.1.33（version_code 133）\n\n阶段7：插件钩子框架、tenant_plugins/plugin_storage、示例每日抽奖、后台安装启停配置。\n\nsha256：bc2b95a1eb4abd15c03ff3dc830a691980e5816aa4ef1227cda3fde32e6cfb79",
-  "published_at": "2026-10-24T09:45:00+08:00"
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.33.1/paopao-api-0.1.33.1.zip",
+  "sha256": "fb3b49c58aa4404625060675a92ceac6073dfaae402552223d7fc0139d3f144a",
+  "changelog": "允许插件目录进补丁。装完后重载 PHP-FPM，再把清单改成 0.1.34。这次没有数据库迁移。"
 }
