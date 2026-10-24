@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.3.1",
-  "version": "1.3.1",
-  "versionName": "1.3.1",
-  "versionCode": 133,
-  "version_code": 133,
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.3.1/paopao-1.3.1.apk",
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.3.1/paopao-1.3.1.apk",
-  "sha256": "6c1b70134c3820172bad53d8873c27e73c5623e2629f76ea8263bef2246eddc7",
+  "latestVersion": "1.3.2",
+  "version": "1.3.2",
+  "versionName": "1.3.2",
+  "versionCode": 134,
+  "version_code": 134,
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.3.2/paopao-1.3.2.apk",
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.3.2/paopao-1.3.2.apk",
+  "sha256": "1a3520f167b1a663e228143abcac4be477813f6022650a3b530c6751007ea1da",
   "forceUpdate": false,
   "force_update": false,
-  "changelog": "1.3.1：用户协议/隐私政策；软件截图、评价、相关推荐、收藏与下载记录；SMTP 可配。加载提速与代码清理。",
-  "published_at": "2026-10-24T17:50:00+08:00"
+  "changelog": "1.3.2：我的页快捷入口短文案+左右滑动；配置时标题最多4字，超长无法保存。",
+  "published_at": "2026-10-24T18:50:02+08:00"
 }
