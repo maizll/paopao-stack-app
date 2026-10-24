@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.2.3",
-  "version": "1.2.3",
-  "versionName": "1.2.3",
-  "versionCode": 125,
-  "version_code": 125,
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.3/paopao-1.2.3.apk",
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.3/paopao-1.2.3.apk",
-  "sha256": "280caffafa6c1dde8980b42eb9833bcde69c80c7f2a57a775c5ecca23fe1a134",
+  "latestVersion": "1.2.4",
+  "version": "1.2.4",
+  "versionName": "1.2.4",
+  "versionCode": 126,
+  "version_code": 126,
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.4/paopao-1.2.4.apk",
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.4/paopao-1.2.4.apk",
+  "sha256": "c930eb6d1a553de2fb110e4ad33520fb5b172dde3364256040ff8dd2140b67fa",
   "forceUpdate": false,
   "force_update": false,
-  "changelog": "1.2.3：虚拟商城可看列表和详情。确认订单后选支付宝或微信。没有商户密钥时走模拟支付，确认后自动发码。我的订单可看发货状态、复制卡密、继续支付和提交退款申请。多规格、实体物流和售后退货处理留到二期。",
-  "published_at": "2026-10-24T09:10:00+08:00"
+  "changelog": "1.2.4：消息页按赞和收藏、新增关注、评论、系统分类，并显示未读角标。系统通知包含审核结果、下架、举报处理和公告。后台可向全体或指定用户群发，并保留发送记录。私信、关注粉丝和个人主页关系链可用。搜索覆盖笔记、软件、用户和圈子。",
+  "published_at": "2026-10-24T09:25:00+08:00"
 }

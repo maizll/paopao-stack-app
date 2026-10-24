@@ -1,13 +1,13 @@
 {
-  "version": "0.1.31",
-  "version_name": "0.1.31",
-  "versionName": "0.1.31",
-  "version_code": 131,
-  "versionCode": 131,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.31/paopao-api-0.1.31.zip",
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.31/paopao-api-0.1.31.zip",
-  "sha256": "20667965265ffb113cfbd14efaee0b43e6d4934fddd80d3af4dd32f38757462f",
+  "version": "0.1.32",
+  "version_name": "0.1.32",
+  "versionName": "0.1.32",
+  "version_code": 132,
+  "versionCode": 132,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.32/paopao-api-0.1.32.zip",
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.32/paopao-api-0.1.32.zip",
+  "sha256": "2426a2b193bf201e5ab228cdd16756ad20f7f064f637d3494136b7e4b222cd5a",
   "migrate": true,
-  "changelog": "泡泡栈服务端 0.1.31（version_code 131）\n\n阶段5：商城支付（沙箱/支付宝/微信回调）、自动发码、补发、退款作废卡密、售后申请。\n\nsha256：20667965265ffb113cfbd14efaee0b43e6d4934fddd80d3af4dd32f38757462f",
-  "published_at": "2026-10-24T09:05:00+08:00"
+  "changelog": "泡泡栈服务端 0.1.32（version_code 132）\n\n阶段6：消息分类未读与角标、群发记录 notification_campaigns、搜索与私信补齐。\n\nsha256：2426a2b193bf201e5ab228cdd16756ad20f7f064f637d3494136b7e4b222cd5a",
+  "published_at": "2026-10-24T09:20:00+08:00"
 }
