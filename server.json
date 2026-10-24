@@ -3,6 +3,6 @@
   "version_name": "0.1.36",
   "version_code": 136,
   "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.36/paopao-api-0.1.36.zip",
-  "sha256": "74cd0bfe6914c7f80fde5fe1187597620696d9fc7514f6c20858256b5dcd9fdd",
+  "sha256": "e739db643afda43c228e927e88d5eeea123e321f7fd9657697310482d1966d1c",
   "changelog": "线上仍是 0.1.35，本包替换先前未部署的 0.1.36。抽奖增加 GET /api/v1/lottery，未登录不再 404。公开版本在库内 sha256 为空时按版本或下载地址回填，读清单失败不再缓存 5 分钟，同步不会把旧校验值套到新安装包上。后台 App 形态用竖屏手机预览租户内容。迁移只给 client_releases 加可空 sha256。"
 }
