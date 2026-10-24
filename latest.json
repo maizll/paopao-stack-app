@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.2.5",
-  "version": "1.2.5",
-  "versionName": "1.2.5",
-  "versionCode": 127,
-  "version_code": 127,
-  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.5/paopao-1.2.5.apk",
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.5/paopao-1.2.5.apk",
-  "sha256": "f12e92495bc625734de06b5eed7f8b95cefdb0ad8a31bcbc188115f64ace4864",
+  "latestVersion": "1.2.6",
+  "version": "1.2.6",
+  "versionName": "1.2.6",
+  "versionCode": 128,
+  "version_code": 128,
+  "downloadUrl": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.6/paopao-1.2.6.apk",
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v1.2.6/paopao-1.2.6.apk",
+  "sha256": "32c1d5f1b43a54f71ae2af5643815925ce04613c1cb8e77da906dee21c4d48ad",
   "forceUpdate": false,
   "force_update": false,
-  "changelog": "1.2.5：插件按钩子接入同一套页面、角色和存储。后台可检测并生成清单、安装压缩包、启用停用和改配置。我的和发现多出插件入口。附示例每日抽奖，用来验证安装、配置和抽奖。",
-  "published_at": "2026-10-24T09:45:00+08:00"
+  "changelog": "1.2.6：可勾选首页、社区、发现、商城、消息和我的，每页能换样式。底栏有图标文字、纯图标和中间凸起发布。未启用的页面不进底栏。后台用手机框先看再保存。",
+  "published_at": "2026-10-24T10:05:00+08:00"
 }
