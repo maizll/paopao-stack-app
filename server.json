@@ -1,8 +1,8 @@
 {
-  "version": "0.1.52",
-  "version_name": "0.1.52",
-  "version_code": 1520,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.52/paopao-api-0.1.52.zip",
-  "sha256": "41566f8aa64d6327845a9b3ba949f02b59bf39de794e6594b9a520da89035d35",
-  "changelog": "App 形态两步向导（勾选页/子页/自定义页 → 每页皮肤与底栏）；不改表；覆盖后 php artisan config:clear。"
+  "version": "0.1.53",
+  "version_name": "0.1.53",
+  "version_code": 1530,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.53/paopao-api-0.1.53.zip",
+  "sha256": "b17982a60566f0e1d2679b05b242a7f9eec967f202688657939a5d69594531d8",
+  "changelog": "紧急恢复完整后台（撤回残缺 0.1.52）。抽奖/基础配置/角色/审核/在线更新页已加回。不改表。"
 }
