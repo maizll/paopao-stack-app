@@ -1,8 +1,8 @@
 {
-  "version": "0.1.54",
-  "version_name": "0.1.54",
-  "version_code": 1540,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.54/paopao-api-0.1.54.zip",
-  "sha256": "552c6069a2093271ea7fc326f57eaeb04b45872f50c783441edbd39c221fcf68",
-  "changelog": "App形态两步向导(添加页/子页)+侧栏分类；完整后台不阉割；不改表。"
+  "version": "0.1.55",
+  "version_name": "0.1.55",
+  "version_code": 1550,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.55/paopao-api-0.1.55.zip",
+  "sha256": "898bc45ee8756670b469dfd9d5e281a2f5bf0382ba8fb073d5dc62f69bcfaa18",
+  "changelog": "强制 backend 菜单分类 + App形态脚本换名破缓存；不改表。"
 }
