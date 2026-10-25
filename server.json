@@ -1,8 +1,8 @@
 {
-  "version": "0.1.53",
-  "version_name": "0.1.53",
-  "version_code": 1530,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.53/paopao-api-0.1.53.zip",
-  "sha256": "b17982a60566f0e1d2679b05b242a7f9eec967f202688657939a5d69594531d8",
-  "changelog": "紧急恢复完整后台（撤回残缺 0.1.52）。抽奖/基础配置/角色/审核/在线更新页已加回。不改表。"
+  "version": "0.1.54",
+  "version_name": "0.1.54",
+  "version_code": 1540,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.54/paopao-api-0.1.54.zip",
+  "sha256": "552c6069a2093271ea7fc326f57eaeb04b45872f50c783441edbd39c221fcf68",
+  "changelog": "App形态两步向导(添加页/子页)+侧栏分类；完整后台不阉割；不改表。"
 }
