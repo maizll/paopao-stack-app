@@ -1,8 +1,8 @@
 {
-  "version": "0.1.65",
-  "version_name": "0.1.65",
-  "version_code": 1650,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.65/paopao-api-0.1.65.zip",
-  "sha256": "4a97d0e31ab7ce3cc8734f05e77cf8d61b1bc2df12e8b97c1388c9a348e99081",
-  "changelog": "bootstrap login lazy 改.then(e=>e.t)+保留0.1.64 auth无Transition/KeepAlive；强清paopao_cleared_165+?v=0.1.65-1650。不改表。"
+  "version": "0.1.66",
+  "version_name": "0.1.66",
+  "version_code": 1660,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.66/paopao-api-0.1.66.zip",
+  "sha256": "d52083ba22e447783fa743cbcc916209f42992be7e72c539437aab4d4cf34cf5",
+  "changelog": "核替auth/login为最小RouterView+纯表单（无resolveDynamicComponent/Transition/KeepAlive）；温和清paopao_cleared_166；?v=0.1.66-1660。不改表。"
 }
