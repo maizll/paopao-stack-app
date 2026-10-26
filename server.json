@@ -1,8 +1,8 @@
 {
-  "version": "0.1.82",
-  "version_name": "0.1.82",
-  "version_code": 1820,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.82/paopao-api-0.1.82.zip",
-  "sha256": "0f8996a2d3d8859f065e7b9329d2aa80dc15e24c113b18fe4c368a4b1fb4f072",
-  "changelog": "修复 soft-nav 中毒与应用形态空白：shell-wizard 误将 Ar(triggerRef) 当作 e 去 resolve Page/Alert/Modal，渲染出 <undefined> 毒化 RouterView；改为 jr(unref)。保留 An/s/try/export；撤回 SystemShell .then(e=>e.t) 回 0179 默认导出。bootstrap-0182Nav/shell-wizard-0182；paopao_cleared_182；?v=0.1.82-1820。Ir/Fr/frontend 保持。不改表。"
+  "version": "0.1.83",
+  "version_name": "0.1.83",
+  "version_code": 1830,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.83/paopao-api-0.1.83.zip",
+  "sha256": "1e76c8c6f1aa9715b6d6d6fc97334ffb15a56612245c09ca86989f65f585bb3e",
+  "changelog": "修复 soft-nav 中毒与应用形态 <undefined>：shell-wizard 误用 Ar(triggerRef) 为 e resolve Page/Alert/Modal（应为 jr/unref）；0.1.81 An 修复后 render 出 undefined 毒化后续 soft-nav。保留 An/s/try/export；SystemShell 回 0179 默认导出（无 .then e.t）。bootstrap-0183Nav/shell-wizard-0183；paopao_cleared_183；?v=0.1.83-1830。Ir/Fr/frontend 保持。不改表。"
 }
