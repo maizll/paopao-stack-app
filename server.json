@@ -1,8 +1,8 @@
 {
-  "version": "0.1.67",
-  "version_name": "0.1.67",
-  "version_code": 1670,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.67/paopao-api-0.1.67.zip",
-  "sha256": "85747c13fc7eb8192cdceace42ab1d5faac07b199b3ad1293acaa66f36c23ec0",
-  "changelog": "修login误import h(Bh色值助手)为On(createVNode)；auth slot直接返回Component；温和清paopao_cleared_167；?v=0.1.67-1670。不改表。"
+  "version": "0.1.68",
+  "version_name": "0.1.68",
+  "version_code": 1680,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.68/paopao-api-0.1.68.zip",
+  "sha256": "06455aab6838591dda121f4921670a365f9e9d621677d305cbe865e227c91996",
+  "changelog": "修AuthMinimal：RouterView slot用createBlock(resolveDynamicComponent(Component))（tr as w）；不再返回裸Component；login仍On as s；温和清paopao_cleared_168；?v=0.1.68-1680。不改表。"
 }
