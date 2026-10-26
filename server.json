@@ -1,8 +1,8 @@
 {
-  "version": "0.1.71",
-  "version_name": "0.1.71",
-  "version_code": 1710,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.71/paopao-api-0.1.71.zip",
-  "sha256": "1d5e4dbb618b91ddccb26609a467bf4f955ddc0590bef50415e1bbcb321713f6",
-  "changelog": "紧急登录SecureLS改存JSON.stringify(state)（pinia再JSON.parse）；写paopao_cleared_171；index mild-clear改171且永不删core-access/secure-meta；?v=0.1.71-1710。auth/login/App strip保持0.1.70。不改表。"
+  "version": "0.1.72",
+  "version_name": "0.1.72",
+  "version_code": 1720,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.72/paopao-api-0.1.72.zip",
+  "sha256": "b30217b0db6898d765811b909ef564c78acfa5611c0f4ef73f5f9b97155df424",
+  "changelog": "强制frontend菜单(baked Ir)；紧急登录改「运营后台」+roles→accessCodes；写paopao_cleared_172；index mild-clear改172；?v=0.1.72-1720。不改表。"
 }
