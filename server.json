@@ -1,8 +1,8 @@
 {
-  "version": "0.1.76",
-  "version_name": "0.1.76",
-  "version_code": 1760,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.76/paopao-api-0.1.76.zip",
-  "sha256": "241eff5fc992f8390131bdc8b29d503294e99b155ba6728e2a19fc32223cc76c",
-  "changelog": "bootstrap mount前强制generateAccess（boot access）；bootstrap-0176Access.js破缓存；paopao_cleared_176；?v=0.1.76-1760。$r harden/Fr/frontend/emergency保持。不改表。"
+  "version": "0.1.77",
+  "version_name": "0.1.77",
+  "version_code": 1770,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.77/paopao-api-0.1.77.zip",
+  "sha256": "9db6549bab3a8c33b07c2a6d1001ac9ff6ec0a383b58fa8e2115ae1bf251c750",
+  "changelog": "修 bootstrap 非法逗号表达式（t.use(ti),try→;try；catch后去逗号）；bootstrap-0177Access.js破缓存；paopao_cleared_177；?v=0.1.77-1770。boot-force/$r/Fr/frontend/emergency保持。不改表。"
 }
