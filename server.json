@@ -1,8 +1,8 @@
 {
-  "version": "0.1.74",
-  "version_name": "0.1.74",
-  "version_code": 1740,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.74/paopao-api-0.1.74.zip",
-  "sha256": "2301736feb1a14a4dc1caf21b57377a38251c752a34c7d641ecabd4505d9cc0e",
-  "changelog": "恢复bootstrap Fr=f({default:()=>Ir})（撤销0.1.73 TDZ空Vr）；accessMode仍frontend；写paopao_cleared_174；?v=0.1.74-1740。不改表。"
+  "version": "0.1.75",
+  "version_name": "0.1.75",
+  "version_code": 1750,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.75/paopao-api-0.1.75.zip",
+  "sha256": "e167a819bc09dd4d468099bcace7be7f3aaee69b36c6406ed0d3c0d9cae6a253",
+  "changelog": "$r守卫空安全：fetchUserInfo失败时用accessCodes合成userInfo并继续Xr/setAccessMenus；menus空时不跳过generateAccess；paopao_cleared_175；?v=0.1.75-1750。Fr/frontend/emergency保持。不改表。"
 }
