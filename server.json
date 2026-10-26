@@ -1,8 +1,8 @@
 {
-  "version": "0.1.80",
-  "version_name": "0.1.80",
-  "version_code": 1800,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.80/paopao-api-0.1.80.zip",
-  "sha256": "c7d53b70b6dc55d4a7c0e3d92f0b3d92847b8c0ebd571754d52d18a8ad936c89",
-  "changelog": "修复应用形态空白页：shell-wizard 误 import store.i 为 requestClient（x.get 非函数）；改 s；feed try/catch；export n/t/default + .then(e=>e.t)；shell-wizard-0180/bootstrap-0180Nav；paopao_cleared_180；?v=0.1.80-1800。Ir/Fr/$r/frontend 保持。不改表。"
+  "version": "0.1.81",
+  "version_name": "0.1.81",
+  "version_code": 1810,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.81/paopao-api-0.1.81.zip",
+  "sha256": "3fc9782895175ba0577004f2e6077840de2ac1b7cc407ed2589b40ddd0ca744d",
+  "changelog": "修复应用形态 TypeError:t is not a function：shell-wizard 误用 kn(defineAsyncComponent) 为 p，应为 An(defineComponent)；保留 s as x/feed try/catch/export n|t|default；shell-wizard-0181/bootstrap-0181Nav；paopao_cleared_181；?v=0.1.81-1810。Ir/Fr/$r/frontend 保持。不改表。"
 }
