@@ -1,8 +1,8 @@
 {
-  "version": "0.1.84",
-  "version_name": "0.1.84",
-  "version_code": 1840,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.84/paopao-api-0.1.84.zip",
-  "sha256": "6f363d582017f1700d0a71cf3a39b6e62f4f04f0e4ca5a051e4dcf25b2eec5e8",
-  "changelog": "0.1.83 浏览器验失败：jr 去掉 <undefined> 但 Page 槽仍空注释（wizard 不挂载），离壳 soft-nav 仍中毒。根因 shell-wizard 整表 import 相对 index-index 过期（withCtx/openBlock/onMounted/Fragment/ref/computed/reactive/renderList 等与 settings/lottery 不一致）。0.1.84 按工作页别名重写 shell-wizard-0184 + bootstrap-0184Nav；保留 An/s/try/feed/export；paopao_cleared_184；?v=0.1.84-1840。Ir/Fr/frontend/emergency 保持。不改表。勿宣称 UI 已修。"
+  "version": "0.1.85",
+  "version_name": "0.1.85",
+  "version_code": 1850,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.85/paopao-api-0.1.85.zip",
+  "sha256": "ac297cdd9d54a3e2583e2772ee82d6450082d441dc2ccfc7822f774ef4a87788",
+  "changelog": "0.1.84 验失败：shell 仍空注释、软跳仍空白；手改别名无效。0.1.85 停用 wizard：SystemShell→shell-stub-0185（An/Yn/wn/xn 自包含，不导入 wizard/phone）；bootstrap-0185Nav；wizard→.bak；paopao_cleared_185；?v=0.1.85-1850。Ir/Fr/frontend/emergency 保持。仅宣称 soft-nav 安全+stub 可见，不宣称向导已修。"
 }
