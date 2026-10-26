@@ -1,8 +1,8 @@
 {
-  "version": "0.1.73",
-  "version_name": "0.1.73",
-  "version_code": 1730,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.73/paopao-api-0.1.73.zip",
-  "sha256": "f3d15b25c063736b8b1b2f3e0d4b46d8b0a309d53ff539af5c99287eb0b732d7",
-  "changelog": "修bootstrap Fr=f→Fr={default:Ir}（空菜单）；accessMode仍frontend；写paopao_cleared_173；?v=0.1.73-1730。不改表。"
+  "version": "0.1.74",
+  "version_name": "0.1.74",
+  "version_code": 1740,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.74/paopao-api-0.1.74.zip",
+  "sha256": "2301736feb1a14a4dc1caf21b57377a38251c752a34c7d641ecabd4505d9cc0e",
+  "changelog": "恢复bootstrap Fr=f({default:()=>Ir})（撤销0.1.73 TDZ空Vr）；accessMode仍frontend；写paopao_cleared_174；?v=0.1.74-1740。不改表。"
 }
