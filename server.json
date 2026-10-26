@@ -1,8 +1,8 @@
 {
-  "version": "0.1.72",
-  "version_name": "0.1.72",
-  "version_code": 1720,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.72/paopao-api-0.1.72.zip",
-  "sha256": "b30217b0db6898d765811b909ef564c78acfa5611c0f4ef73f5f9b97155df424",
-  "changelog": "强制frontend菜单(baked Ir)；紧急登录改「运营后台」+roles→accessCodes；写paopao_cleared_172；index mild-clear改172；?v=0.1.72-1720。不改表。"
+  "version": "0.1.73",
+  "version_name": "0.1.73",
+  "version_code": 1730,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.73/paopao-api-0.1.73.zip",
+  "sha256": "f3d15b25c063736b8b1b2f3e0d4b46d8b0a309d53ff539af5c99287eb0b732d7",
+  "changelog": "修bootstrap Fr=f→Fr={default:Ir}（空菜单）；accessMode仍frontend；写paopao_cleared_173；?v=0.1.73-1730。不改表。"
 }
