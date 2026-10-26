@@ -1,8 +1,8 @@
 {
-  "version": "0.1.62",
-  "version_name": "0.1.62",
-  "version_code": 1620,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.62/paopao-api-0.1.62.zip",
-  "sha256": "b6c2a7a4127f289830563667e3ae0c3502ca6696f61ce4b9bc63e951723ae52a",
-  "changelog": "Login 路由用 e.t（真实组件）不用 e.n；bootstrap 改名为 bootstrap-0162Login；强清全部 localStorage（paopao_cleared_162）+ ?v=0.1.62-1620。不改表。"
+  "version": "0.1.63",
+  "version_name": "0.1.63",
+  "version_code": 1630,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.63/paopao-api-0.1.63.zip",
+  "sha256": "874977380fa514855ac15164ef586aba878dfb1196a48b5f92f416ea5b896430",
+  "changelog": "login 默认导出真实组件；auth RouterView null 守卫；accessMode 默认 frontend；温和清 paopao-admin*（paopao_cleared_163）+ ?v=0.1.63-1630。不改表。"
 }
