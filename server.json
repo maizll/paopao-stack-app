@@ -1,8 +1,8 @@
 {
-  "version": "0.1.57",
-  "version_name": "0.1.57",
-  "version_code": 1570,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.57/paopao-api-0.1.57.zip",
-  "sha256": "c37ceb46ffe471e2fe5e694a57e6de7806960e0f0941d1783fb9d23ea7136259",
-  "changelog": "修复 0.1.56 后台卡启动页：bootstrap Ir 数组后多余 }] 导致模块解析失败；换名 bootstrap-0157NavFix.js 破缓存。不改表。"
+  "version": "0.1.58",
+  "version_name": "0.1.58",
+  "version_code": 1580,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.58/paopao-api-0.1.58.zip",
+  "sha256": "829ea2331e55dc3f94f115220830c9ed7a8ae2eec0f77ed66c6dffe6e02bd60b",
+  "changelog": "紧急修复 0.1.57 白板：恢复 0.1.55 扁平 Ir（bootstrap-0158Flat.js）；分类侧栏由 accessMode backend + /menu/all。不改表。"
 }
