@@ -3,6 +3,6 @@
   "version_name": "0.1.82",
   "version_code": 1820,
   "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.82/paopao-api-0.1.82.zip",
-  "sha256": "9b2eae6eb0351ccb11ab12e8ccef7b5a137530412e8222f9998f81416cf6313f",
-  "changelog": "修复 soft SPA 导航空白：撤回 0.1.80 起 SystemShell/bootstrap `.then(e=>e.t)`（与 0179 一致改回默认导出加载）。保留 shell-wizard An(defineComponent)/s as x/feed try/catch/export n|t|default。bootstrap-0182Nav + shell-wizard-0182；paopao_cleared_182；?v=0.1.82-1820。Ir 五组四字/Fr/$r/frontend/semicolon-try 保持。不改表。"
+  "sha256": "0f8996a2d3d8859f065e7b9329d2aa80dc15e24c113b18fe4c368a4b1fb4f072",
+  "changelog": "修复 soft-nav 中毒与应用形态空白：shell-wizard 误将 Ar(triggerRef) 当作 e 去 resolve Page/Alert/Modal，渲染出 <undefined> 毒化 RouterView；改为 jr(unref)。保留 An/s/try/export；撤回 SystemShell .then(e=>e.t) 回 0179 默认导出。bootstrap-0182Nav/shell-wizard-0182；paopao_cleared_182；?v=0.1.82-1820。Ir/Fr/frontend 保持。不改表。"
 }
