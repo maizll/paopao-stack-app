@@ -1,8 +1,8 @@
 {
-  "version": "0.1.59",
-  "version_name": "0.1.59",
-  "version_code": 1590,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.59/paopao-api-0.1.59.zip",
-  "sha256": "a681cfc76710c5109d00d96fa6596f3211c42258ee80ae4395bea0e1611f105a",
-  "changelog": "紧急修复 0.1.58 白板：强制 accessMode frontend + 扁平 Ir（bootstrap-0159Boot.js）；拓宽 localStorage 清理。分类侧栏下一步再修。不改表。"
+  "version": "0.1.60",
+  "version_name": "0.1.60",
+  "version_code": 1600,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.60/paopao-api-0.1.60.zip",
+  "sha256": "2d84e0e101fd9c939a7cdd243680e1212c81aedd4d5b00f59b0d87c17b6bef96",
+  "changelog": "紧急恢复：按可进的 0.1.55 原样盖回（index-index-0160Safe + bootstrap-0160Safe，全量交叉引用同步，mild clear paopao_cleared_160）。不改表。"
 }
