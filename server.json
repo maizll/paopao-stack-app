@@ -1,8 +1,8 @@
 {
-  "version": "0.1.78",
-  "version_name": "0.1.78",
-  "version_code": 1780,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.78/paopao-api-0.1.78.zip",
-  "sha256": "1d36656073a2a0086e44b6abb063d165aecd8fa5c147009588d39ea369b1d7a0",
-  "changelog": "侧栏按工作台/社区/软件商店/运营/系统分组，标题统一约4字；bootstrap-0178Nav.js；paopao_cleared_178；?v=0.1.78-1780。boot-force/$r/Fr/frontend/semicolon-try/emergency保持。不改表。"
+  "version": "0.1.79",
+  "version_name": "0.1.79",
+  "version_code": 1790,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.79/paopao-api-0.1.79.zip",
+  "sha256": "7cbc8c168a383777730842f1947245692e1f90346dc551cb5c745d95639f68fd",
+  "changelog": "侧栏分组标题统一4字：工作台面/社区管理/软件商店/运营中心/系统设置；Ir五组嵌套；bootstrap-0179Nav.js；paopao_cleared_179；?v=0.1.79-1790。boot-force/$r/Fr/frontend/semicolon-try/emergency保持。不改表。"
 }
