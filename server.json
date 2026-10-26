@@ -1,8 +1,8 @@
 {
-  "version": "0.1.56",
-  "version_name": "0.1.56",
-  "version_code": 1560,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.56/paopao-api-0.1.56.zip",
-  "sha256": "399de2332fb8f20370fbd902e68a56ed4a7a85132df172713155b65c933b9919",
-  "changelog": "侧栏烘焙路由改为工作台/社区/软件商店/运营/系统分组（不依赖 accessMode）；不改表。"
+  "version": "0.1.57",
+  "version_name": "0.1.57",
+  "version_code": 1570,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.57/paopao-api-0.1.57.zip",
+  "sha256": "c37ceb46ffe471e2fe5e694a57e6de7806960e0f0941d1783fb9d23ea7136259",
+  "changelog": "修复 0.1.56 后台卡启动页：bootstrap Ir 数组后多余 }] 导致模块解析失败；换名 bootstrap-0157NavFix.js 破缓存。不改表。"
 }
