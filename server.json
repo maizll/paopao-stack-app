@@ -1,8 +1,8 @@
 {
-  "version": "0.1.81",
-  "version_name": "0.1.81",
-  "version_code": 1810,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.81/paopao-api-0.1.81.zip",
-  "sha256": "3fc9782895175ba0577004f2e6077840de2ac1b7cc407ed2589b40ddd0ca744d",
-  "changelog": "修复应用形态 TypeError:t is not a function：shell-wizard 误用 kn(defineAsyncComponent) 为 p，应为 An(defineComponent)；保留 s as x/feed try/catch/export n|t|default；shell-wizard-0181/bootstrap-0181Nav；paopao_cleared_181；?v=0.1.81-1810。Ir/Fr/$r/frontend 保持。不改表。"
+  "version": "0.1.82",
+  "version_name": "0.1.82",
+  "version_code": 1820,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.82/paopao-api-0.1.82.zip",
+  "sha256": "9b2eae6eb0351ccb11ab12e8ccef7b5a137530412e8222f9998f81416cf6313f",
+  "changelog": "修复 soft SPA 导航空白：撤回 0.1.80 起 SystemShell/bootstrap `.then(e=>e.t)`（与 0179 一致改回默认导出加载）。保留 shell-wizard An(defineComponent)/s as x/feed try/catch/export n|t|default。bootstrap-0182Nav + shell-wizard-0182；paopao_cleared_182；?v=0.1.82-1820。Ir 五组四字/Fr/$r/frontend/semicolon-try 保持。不改表。"
 }
