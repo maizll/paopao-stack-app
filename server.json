@@ -3,6 +3,6 @@
   "version_name": "0.1.84",
   "version_code": 1840,
   "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.84/paopao-api-0.1.84.zip",
-  "sha256": "7a124457c30007fa382b51335a0838670f79d112dc2385cc88b006c6465ebdf9",
+  "sha256": "6f363d582017f1700d0a71cf3a39b6e62f4f04f0e4ca5a051e4dcf25b2eec5e8",
   "changelog": "0.1.83 浏览器验失败：jr 去掉 <undefined> 但 Page 槽仍空注释（wizard 不挂载），离壳 soft-nav 仍中毒。根因 shell-wizard 整表 import 相对 index-index 过期（withCtx/openBlock/onMounted/Fragment/ref/computed/reactive/renderList 等与 settings/lottery 不一致）。0.1.84 按工作页别名重写 shell-wizard-0184 + bootstrap-0184Nav；保留 An/s/try/feed/export；paopao_cleared_184；?v=0.1.84-1840。Ir/Fr/frontend/emergency 保持。不改表。勿宣称 UI 已修。"
 }
