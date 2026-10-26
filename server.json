@@ -1,8 +1,8 @@
 {
-  "version": "0.1.69",
-  "version_name": "0.1.69",
-  "version_code": 1690,
-  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.69/paopao-api-0.1.69.zip",
-  "sha256": "3967ab5494629d78627f0ec7c0d19714398e8a809fd78270df7cf3ad65756052",
-  "changelog": "App根仅RouterView（去ConfigProvider/AApp）；紧急登录emergency-login.html；hash登录跳转；温和清paopao_cleared_169；?v=0.1.69-1690。auth/login保持0.1.68。不改表。"
+  "version": "0.1.70",
+  "version_name": "0.1.70",
+  "version_code": 1700,
+  "download_url": "https://github.com/maizll/paopao-stack-app/releases/download/v0.1.70/paopao-api-0.1.70.zip",
+  "sha256": "48af4c4b47df2a8429b95e0b52eeb92d7be6dee60cd02cb5a9ecbafd651cfc62",
+  "changelog": "紧急登录写paopao_cleared_170防mild-clear抹token；index mild-clear改170且永不删core-access/secure-meta；payload对齐pinia pick；?v=0.1.70-1700。auth/login/App strip保持0.1.69。不改表。"
 }
